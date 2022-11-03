@@ -1,0 +1,29 @@
+body
+{
+    background-position: center;
+}
+
+#heading {
+    width: 100%;
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+#InstructionsButton {
+    float: right;
+    font-size: 17px;
+    margin-top: 5px;
+}
+
+#startButton, #status, #RestartButton {
+    font-size: 17px;
+    margin: 10px;
+}
+
+#copy_right_footer {
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    bottom: 0;
+}
